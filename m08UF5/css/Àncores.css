@@ -1,0 +1,25 @@
+table,li {
+  border: 1px solid white;
+  border-collapse: separate;
+  text-align: center;
+  width: 300px;
+  padding: 10px;
+  list-style: none;
+  background-color: #3B0B0B;
+  text-decoration: none;
+}
+#Página1 {
+  color: white;
+}
+#Página2 {
+  color: white;
+}
+#Página2:hover {
+  background-color: red;
+}
+#Página3 {
+  color: white;
+}
+#Página4 {
+  color: red;
+}
