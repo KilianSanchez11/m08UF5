@@ -1,0 +1,12 @@
+#container{width:600px;height:600px; background: yellow;}
+
+.verdeoscuro{background-color: #107029;}
+.verdeclaro{background-color: #83e69d;}
+.negro{background-color: #000000;}
+
+.cuadrado{width:200px; height:200px; }
+.rectlargo{width:400px; height:100px;}
+.rectcorto{width:200px; height:100px;}
+
+.izquierda{float:left;}
+.derecha{float:right;}
