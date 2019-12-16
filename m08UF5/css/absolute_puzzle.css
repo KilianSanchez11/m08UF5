@@ -1,0 +1,89 @@
+#contenedor{
+	width:600px;
+	height:600px;
+	background-color: yellow;
+}
+#div1{
+	width: 60%;
+	height: 98px;
+	background-color: #00a135;
+	float: left;
+	border: 1px solid white;
+}
+#div2{
+	width: 39.5%;
+	height: 98px;
+	background-color: #00c942;
+	float: right;
+	border: 1px solid white;
+}
+#div3{
+	width: 30%;
+	height: 198px;
+	background-color: black;
+	float: left;
+	border: 1px solid white;
+}
+#div4{
+	width: 29.8%;
+	height: 198px;
+	background-color: #00c942;
+	float: left;
+	border: 1px solid white;
+}
+#div5{
+	width: 39.5%;
+	height: 98px;
+	background-color: #00a135;
+	float: right;
+	border: 1px solid white;
+}
+#div6{
+	width: 39.5%;
+	height: 98px;
+	background-color: #00c942;
+	float: right;
+	border: 1px solid white;
+}
+#div7{
+	width: 60%;
+	height: 98px;
+	background-color: #00a135;
+	float: left;
+	border: 1px solid white;
+}
+#div8{
+	width: 39.5%;
+	height: 198px;
+	background-color: black;
+	float: right;
+	border: 1px solid white;
+}
+#div9{
+	width: 60%;
+	height: 98px;
+	background-color: #00c942;
+	float: left;
+	border: 1px solid white;
+}
+#div10{
+	width: 30%;
+	height: 98px;
+	background-color: #00a135;
+	float: left;
+	border: 1px solid white;
+}
+#div11{
+	width: 29.8%;
+	height: 98px;
+	background-color: #00c942;
+	float: left;
+	border: 1px solid white;
+}
+#div12{
+	width: 39.5%;
+	height: 98px;
+	background-color: #00a135;
+	float: left;
+	border: 1px solid white;
+}
